@@ -12,6 +12,7 @@
     <plugin name="cordova-plugin-inappbrowser" />
     <plugin name="admob" />
     <plugin name="cordova-plugin-network-information" />
+    <gap:plugin name="cordova-plugin-admob" source="npm" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
